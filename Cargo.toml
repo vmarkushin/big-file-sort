@@ -1,0 +1,7 @@
+[package]
+name = "big-file-sort"
+version = "0.1.0"
+authors = ["Vladislav Markushin <negigic@gmail.com>"]
+edition = "2018"
+
+[dependencies]
